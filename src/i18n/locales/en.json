@@ -1,0 +1,31 @@
+{
+  "sidebar": {
+    "navLinks": {
+      "home": "Home",
+      "dashboard": "Dashboard",
+      "calendar": "Calendar",
+      "myTeam": "My team",
+      "tasks": "Tasks",
+      "bugs": "Bugs",
+      "notes": "Notes",
+      "invoices": "Invoices",
+      "benefits": "Benefits",
+      "settings": "Settings"
+    }
+  },
+  "pages": {
+    "settings": {
+      "title": "Settings",
+      "description": "Customize your MyFitia experience as you wish.",
+      "languageSwitcher": {
+        "title": "Language"
+      },
+      "themeSwitcher": {
+        "title": "Theme"
+      },
+      "backgroundSwitcher": {
+        "title": "Background"
+      }
+    }
+  }
+}

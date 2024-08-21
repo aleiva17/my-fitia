@@ -1,0 +1,31 @@
+{
+  "sidebar": {
+    "navLinks": {
+      "home": "Inicio",
+      "dashboard": "Dashboard",
+      "calendar": "Calendario",
+      "myTeam": "Mi equipo",
+      "tasks": "Tareas",
+      "bugs": "Bugs",
+      "notes": "Notas",
+      "invoices": "Facturas",
+      "benefits": "Beneficios",
+      "settings": "Ajustes"
+    }
+  },
+  "pages": {
+    "settings": {
+      "title": "Ajustes",
+      "description": "Personaliza tu experiencia en MyFitia como tú quieras.",
+      "languageSwitcher": {
+        "title": "Idioma"
+      },
+      "themeSwitcher": {
+        "title": "Tema"
+      },
+      "backgroundSwitcher": {
+        "title": "Fondo de pantalla"
+      }
+    }
+  }
+}
